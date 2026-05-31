@@ -27,11 +27,11 @@ Me interesa convertir procesos desordenados del mundo real en software usable: a
 
 ## Actualmente
 
-- Trabajo en proyectos web full-stack con **Next.js, React, TypeScript y SQL**.
-- Desarrollo sistemas tipo SaaS para negocios reales.
-- Me enfoco en dashboards, reportes, flujos administrativos y experiencia de usuario.
-- Exploro automatización y desarrollo asistido con IA para trabajar más rápido y mejor.
-- Estoy construyendo productos completos, no solo pantallas bonitas.
+- Desarrollo aplicaciones full-stack con **Next.js, React, TypeScript y SQL**.
+- Construyo sistemas tipo SaaS para negocios reales.
+- Trabajo con dashboards, reportes, flujos administrativos y experiencia de usuario.
+- Exploro automatización y desarrollo asistido con IA para mejorar productividad.
+- Estoy fortaleciendo arquitectura, datos, APIs, despliegue y mantenimiento.
 
 ---
 
@@ -83,9 +83,9 @@ Me interesa convertir procesos desordenados del mundo real en software usable: a
 
 ## Proyectos destacados
 
-| Proyecto | Qué es | Stack |
+| Proyecto | Qué resuelve | Stack |
 | --- | --- | --- |
-| [salon-belleza-next](https://github.com/mathiasmora2232/salon-belleza-next) | Plataforma moderna para gestión de salón con clientes, reservas, servicios, landing, correos y panel administrativo. | TypeScript · Next.js |
+| [salon-belleza-next](https://github.com/mathiasmora2232/salon-belleza-next) | Plataforma moderna para gestión de salón: clientes, reservas, servicios, landing, correos y panel administrativo. | TypeScript · Next.js |
 | [salon_belleza_web](https://github.com/mathiasmora2232/salon_belleza_web) | Sistema de salón en Java/Spring con autenticación, reportes, campañas y flujos administrativos. | Java · JavaScript |
 | [sticker-exchange](https://github.com/mathiasmora2232/sticker-exchange) | App social/geolocalizada para intercambio de cromos y coleccionables físicos. | TypeScript · Supabase · PostGIS |
 | [project-main](https://github.com/mathiasmora2232/project-main) | Sistema web educativo con login, cursos, calendario y administración. | HTML · CSS · JavaScript |

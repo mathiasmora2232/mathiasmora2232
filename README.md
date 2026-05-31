@@ -1,32 +1,41 @@
-# Hola, soy Mathias Mora 👋
+<h1 align="center">Hola, soy Mathias Mora 👋</h1>
 
-Desarrollador full-stack de Ecuador, enfocado en crear productos web, sistemas internos, dashboards SaaS y flujos digitales que realmente funcionen en escenarios reales.
+<p align="center">
+  <strong>Full Stack Developer · Software Development Student · Ecuador</strong>
+</p>
 
-Me gusta tomar procesos desordenados del mundo real y convertirlos en software usable: autenticación, paneles administrativos, reservas, clientes, reportes, bases de datos, correos, despliegue y detalles de producto.
+<p align="center">
+  Construyo productos web, sistemas internos, dashboards SaaS y flujos digitales con lógica real de negocio.
+</p>
+
+<p align="center">
+  <a href="https://github.com/mathiasmora2232">GitHub</a> ·
+  <a href="https://mathiasmora2232.github.io">Portafolio</a>
+</p>
+
+---
+
+## Sobre mí
+
+Soy estudiante de desarrollo de software y desarrollador web enfocado en crear aplicaciones completas: frontend, backend, base de datos, documentación, validaciones, pruebas y despliegue.
+
+Me interesa convertir procesos desordenados del mundo real en software usable: autenticación, paneles administrativos, reservas, clientes, reportes, correos, inventario, eventos y automatización.
 
 > Menos "funciona local", más "aguanta producción real".
 
 ---
 
-## 🇪🇸 Sobre mí
+## Actualmente
 
-Actualmente estudio desarrollo de software y trabajo en proyectos web donde combino frontend, backend, base de datos, documentación técnica, validaciones, pruebas y automatización.
-
-Estoy construyendo experiencia en productos completos, no solo pantallas bonitas. Me interesa que una aplicación tenga estructura, datos bien pensados, flujos claros y una experiencia que el usuario pueda entender sin sufrir capa 8.
-
----
-
-## 🚀 En qué estoy trabajando
-
-- Aplicaciones web full-stack con **Next.js, React, TypeScript y SQL**.
-- Sistemas tipo SaaS para negocios reales: salones, educación, operaciones internas y marketplaces.
-- Dashboards, reportes, paneles administrativos y gestión de usuarios.
-- Automatización y flujos asistidos con IA para desarrollo, documentación y productividad.
-- Aplicaciones con lógica de negocio real: reservas, clientes, servicios, inventario, eventos y notificaciones.
+- Trabajo en proyectos web full-stack con **Next.js, React, TypeScript y SQL**.
+- Desarrollo sistemas tipo SaaS para negocios reales.
+- Me enfoco en dashboards, reportes, flujos administrativos y experiencia de usuario.
+- Exploro automatización y desarrollo asistido con IA para trabajar más rápido y mejor.
+- Estoy construyendo productos completos, no solo pantallas bonitas.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -54,7 +63,7 @@ Estoy construyendo experiencia en productos completos, no solo pantallas bonitas
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Herramientas, deploy y flujo
+### Herramientas y deploy
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -72,94 +81,37 @@ Estoy construyendo experiencia en productos completos, no solo pantallas bonitas
 
 ---
 
-## ⭐ Proyectos destacados
+## Proyectos destacados
 
-| Proyecto | Descripción | Stack |
+| Proyecto | Qué es | Stack |
 | --- | --- | --- |
-| [salon-belleza-next](https://github.com/mathiasmora2232/salon-belleza-next) | Plataforma moderna para gestión de salón de belleza con flujos administrativos, clientes, reservas, landing y correos. | TypeScript · Next.js |
-| [salon_belleza_web](https://github.com/mathiasmora2232/salon_belleza_web) | Sistema de salón en Java/Spring con autenticación, clientes, reportes, campañas y correo transaccional. | Java · JavaScript |
+| [salon-belleza-next](https://github.com/mathiasmora2232/salon-belleza-next) | Plataforma moderna para gestión de salón con clientes, reservas, servicios, landing, correos y panel administrativo. | TypeScript · Next.js |
+| [salon_belleza_web](https://github.com/mathiasmora2232/salon_belleza_web) | Sistema de salón en Java/Spring con autenticación, reportes, campañas y flujos administrativos. | Java · JavaScript |
 | [sticker-exchange](https://github.com/mathiasmora2232/sticker-exchange) | App social/geolocalizada para intercambio de cromos y coleccionables físicos. | TypeScript · Supabase · PostGIS |
-| [project-main](https://github.com/mathiasmora2232/project-main) | Sistema web educativo con login, cursos, calendario, administración y flujos para estudiantes/profesores. | HTML · CSS · JavaScript |
-| [gstack](https://github.com/mathiasmora2232/gstack) | Herramientas y estructura de trabajo para desarrollo asistido con IA y agentes. | TypeScript |
-| [codecanvas3d](https://github.com/mathiasmora2232/codecanvas3d) | Experimento web visual/interactivo alrededor de experiencias creativas con código. | HTML · CSS · JavaScript |
+| [project-main](https://github.com/mathiasmora2232/project-main) | Sistema web educativo con login, cursos, calendario y administración. | HTML · CSS · JavaScript |
 
 ---
 
-## 📌 Foco actual
+## Lo que estoy fortaleciendo
 
-Ahora mismo estoy enfocado en mejorar como desarrollador capaz de entregar productos completos:
-
-- Arquitectura y estructura de proyectos.
-- Diseño de base de datos.
-- APIs limpias y mantenibles.
+- Arquitectura de proyectos y estructura limpia.
+- Diseño de base de datos y modelado de datos.
+- APIs mantenibles y bien documentadas.
 - Interfaces responsivas y usables.
-- Autenticación, seguridad y validaciones.
-- Emails, notificaciones y flujos administrativos.
-- Deploy, documentación y mantenimiento.
+- Validaciones, seguridad y autenticación.
+- Deploy, pruebas, documentación y mantenimiento.
 
 ---
 
-## 🌐 Contacto
+## English summary
+
+I'm a full-stack developer from Ecuador focused on building complete web products, internal systems, SaaS dashboards and practical AI-assisted workflows.
+
+I work with React, Next.js, TypeScript, Java, Node.js, PostgreSQL, Supabase and SQL-based systems. My main interest is turning real business processes into usable software with clean interfaces, solid data structures and maintainable workflows.
+
+---
+
+## Contacto
 
 - GitHub: [@mathiasmora2232](https://github.com/mathiasmora2232)
 - Portafolio: [mathiasmora2232.github.io](https://mathiasmora2232.github.io)
-
----
-
-# Hi, I'm Mathias Mora 👋
-
-Full-stack developer from Ecuador focused on building web products, internal systems, SaaS dashboards and digital workflows that work in real-world scenarios.
-
-I like turning messy real-life processes into usable software: authentication, admin panels, bookings, clients, reports, databases, email, deployment and product details.
-
----
-
-## 🇺🇸 About me
-
-I study software development and work on web projects where I combine frontend, backend, databases, technical documentation, validation, testing and automation.
-
-I am focused on building complete products, not just screens. I care about structure, clean data, clear flows and user experiences that are practical and easy to understand.
-
----
-
-## 🚀 What I'm working on
-
-- Full-stack web apps with **Next.js, React, TypeScript and SQL**.
-- SaaS-style systems for real businesses: salons, education, internal operations and marketplaces.
-- Dashboards, reports, admin panels and user management.
-- AI-assisted workflows for development, documentation and productivity.
-- Apps with real business logic: bookings, clients, services, inventory, events and notifications.
-
----
-
-## ⭐ Featured projects
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| [salon-belleza-next](https://github.com/mathiasmora2232/salon-belleza-next) | Modern salon management platform with admin flows, clients, bookings, landing tools and email features. | TypeScript · Next.js |
-| [salon_belleza_web](https://github.com/mathiasmora2232/salon_belleza_web) | Java/Spring salon system with authentication, clients, reports, campaigns and transactional email. | Java · JavaScript |
-| [sticker-exchange](https://github.com/mathiasmora2232/sticker-exchange) | Geolocated social app for trading stickers and physical collectibles in person. | TypeScript · Supabase · PostGIS |
-| [project-main](https://github.com/mathiasmora2232/project-main) | Education-oriented web system with login, courses, calendar, admin and student/professor flows. | HTML · CSS · JavaScript |
-| [gstack](https://github.com/mathiasmora2232/gstack) | Tools and workflow structure for AI-assisted development and agentic coding. | TypeScript |
-| [codecanvas3d](https://github.com/mathiasmora2232/codecanvas3d) | Visual and interactive web experiment around creative code experiences. | HTML · CSS · JavaScript |
-
----
-
-## 📌 Current focus
-
-Right now I am focused on becoming better at shipping complete products:
-
-- Project architecture and structure.
-- Database design.
-- Clean and maintainable APIs.
-- Responsive and usable interfaces.
-- Authentication, security and validations.
-- Emails, notifications and admin workflows.
-- Deployment, documentation and maintenance.
-
----
-
-## 🌐 Contact
-
-- GitHub: [@mathiasmora2232](https://github.com/mathiasmora2232)
-- Portfolio: [mathiasmora2232.github.io](https://mathiasmora2232.github.io)

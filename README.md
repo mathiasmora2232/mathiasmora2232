@@ -23,11 +23,15 @@
 
 ## Sobre mí
 
-Soy estudiante de desarrollo de software y desarrollador web enfocado en crear aplicaciones completas: frontend, backend, base de datos, documentación, validaciones, pruebas, infraestructura y despliegue.
+Soy desarrollador **full-stack** y estudiante de **Desarrollo de Software**.
 
-Me interesa convertir procesos desordenados del mundo real en software usable: autenticación, paneles administrativos, reservas, clientes, reportes, correos, inventario, eventos, automatización y operación de servidores.
+Construyo aplicaciones completas: frontend, backend, APIs, bases de datos, autenticación, pruebas, documentación y despliegue.
 
-> Menos “funciona local”, más “aguanta producción real”.
+Me gusta convertir procesos reales y desordenados en software mantenible: paneles administrativos, clientes, inventarios, reservas, reportes, automatizaciones e integraciones.
+
+Mi enfoque no es solo hacer que funcione, sino diseñarlo pensando en usuarios, errores, datos, seguridad, mantenimiento y producción real.
+
+**Menos “funciona local”. Más “aguanta producción real”.**
 
 ---
 
@@ -161,11 +165,19 @@ Estos son algunos de los proyectos públicos en los que he trabajado o que repre
 
 ## English summary
 
-I'm a full-stack developer from Ecuador focused on building complete web products, internal systems, SaaS dashboards and practical AI-assisted workflows.
+### Building software for the messy real world.
 
-I work with React, Next.js, TypeScript, Java, Node.js, PostgreSQL, Supabase and SQL-based systems. I also manage Ubuntu environments, virtual machines, application deployments, CI/CD pipelines with GitHub Actions and GitLab Runners, VPN access, credentials and server configurations.
+I'm a full-stack developer and Software Development student.
 
-My main interest is turning real business processes into usable software with clean interfaces, solid data models, reliable deployments and maintainable backend logic.
+I build complete applications across the stack: frontend, backend, APIs, databases, authentication, testing, documentation and deployment.
+
+I enjoy turning real-world, messy processes into maintainable software: administrative dashboards, customer management, inventory, reservations, reports, automations and integrations.
+
+My focus is not only on making things work, but on designing software with users, errors, data, security, maintainability and real production environments in mind.
+
+I also work with Ubuntu servers, virtual machines, application deployments, CI/CD pipelines using GitHub Actions and GitLab Runners, VPN access, credentials and server configuration.
+
+**Less “it works locally”. More “it can handle production”.**
 
 ---
 

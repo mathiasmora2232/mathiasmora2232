@@ -1,3 +1,14 @@
+<p align="center">
+  <a href="#espanol">🇪🇸 Español</a> ·
+  <a href="#english">🇬🇧 English</a>
+</p>
+
+<p align="center">
+  <strong>Selecciona tu idioma / Choose your language</strong>
+</p>
+
+<a id="espanol"></a>
+
 <h1 align="center">Hola, soy Mathias Mora 👋</h1>
 
 <p align="center">
@@ -161,9 +172,16 @@ Estos son algunos de los proyectos públicos en los que he trabajado o que repre
 - Infraestructura, CI/CD y administración de servidores.
 - Deploy, pruebas, documentación y mantenimiento.
 
+<p align="right">
+  <a href="#espanol">🇪🇸 Volver al español</a> ·
+  <a href="#english">🇬🇧 Go to English</a>
+</p>
+
 ---
 
-## English summary
+<a id="english"></a>
+
+## English
 
 ### Building software for the messy real world.
 
@@ -179,9 +197,14 @@ I also work with Ubuntu servers, virtual machines, application deployments, CI/C
 
 **Less “it works locally”. More “it can handle production”.**
 
+<p align="right">
+  <a href="#espanol">🇪🇸 Go to Spanish</a> ·
+  <a href="#english">🇬🇧 Back to English</a>
+</p>
+
 ---
 
-## Contacto
+## Contact
 
 - GitHub: [@mathiasmora2232](https://github.com/mathiasmora2232)
-- Portafolio: [mathiasmora2232.github.io](https://mathiasmora2232.github.io)
+- Portfolio: [mathiasmora2232.github.io](https://mathiasmora2232.github.io)

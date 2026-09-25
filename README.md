@@ -23,9 +23,9 @@
 
 ## Sobre mí
 
-Soy estudiante de desarrollo de software y desarrollador web enfocado en crear aplicaciones completas: frontend, backend, base de datos, documentación, validaciones, pruebas y despliegue.
+Soy estudiante de desarrollo de software y desarrollador web enfocado en crear aplicaciones completas: frontend, backend, base de datos, documentación, validaciones, pruebas, infraestructura y despliegue.
 
-Me interesa convertir procesos desordenados del mundo real en software usable: autenticación, paneles administrativos, reservas, clientes, reportes, correos, inventario, eventos y automatización.
+Me interesa convertir procesos desordenados del mundo real en software usable: autenticación, paneles administrativos, reservas, clientes, reportes, correos, inventario, eventos, automatización y operación de servidores.
 
 > Menos “funciona local”, más “aguanta producción real”.
 
@@ -36,6 +36,9 @@ Me interesa convertir procesos desordenados del mundo real en software usable: a
 - Desarrollo aplicaciones full-stack con **Next.js, React, TypeScript y SQL**.
 - Construyo sistemas tipo SaaS para negocios reales.
 - Trabajo con dashboards, reportes, flujos administrativos y experiencia de usuario.
+- Administro entornos **Ubuntu**, máquinas virtuales y servidores para desplegar aplicaciones.
+- Implemento despliegues automatizados con **CI/CD, GitHub Actions y GitLab Runners**.
+- Trabajo con configuración de servidores, variables de entorno, credenciales, VPNs y mantenimiento de infraestructura.
 - Exploro automatización y desarrollo asistido con IA para mejorar productividad.
 - Estoy fortaleciendo arquitectura, datos, APIs, despliegue y mantenimiento.
 
@@ -82,13 +85,21 @@ Me interesa convertir procesos desordenados del mundo real en software usable: a
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Herramientas y deploy
+### DevOps, servidores y despliegue
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![VPN](https://img.shields.io/badge/VPN-1F6FEB?style=for-the-badge&logo=wireguard&logoColor=white)
+
+### Herramientas
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ### IA y automatización
@@ -97,6 +108,22 @@ Me interesa convertir procesos desordenados del mundo real en software usable: a
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-1F6FEB?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+
+## Infraestructura y experiencia DevOps
+
+- Administración y gestión de servidores **Ubuntu**.
+- Uso de máquinas virtuales y entornos de alojamiento en **Spaceship** para el despliegue de aplicaciones.
+- Configuración de aplicaciones, servicios, variables de entorno y credenciales de acceso.
+- Automatización de despliegues mediante pipelines **CI/CD**.
+- Creación y mantenimiento de workflows con **GitHub Actions**.
+- Configuración y uso de **GitLab Runners** para procesos de integración y despliegue continuo.
+- Gestión de dominios, servicios, permisos y configuraciones de producción.
+- Experiencia trabajando con **VPNs**, accesos remotos y protección de credenciales sensibles.
+- Diagnóstico de errores de despliegue, mantenimiento de entornos y administración básica de servidores.
+
+> Las credenciales y secretos deben gestionarse mediante variables de entorno y secretos protegidos, nunca directamente en el código fuente.
 
 ---
 
@@ -127,6 +154,7 @@ Estos son algunos de los proyectos públicos en los que he trabajado o que repre
 - APIs mantenibles y bien documentadas.
 - Interfaces responsivas y usables.
 - Validaciones, seguridad y autenticación.
+- Infraestructura, CI/CD y administración de servidores.
 - Deploy, pruebas, documentación y mantenimiento.
 
 ---
@@ -135,7 +163,9 @@ Estos son algunos de los proyectos públicos en los que he trabajado o que repre
 
 I'm a full-stack developer from Ecuador focused on building complete web products, internal systems, SaaS dashboards and practical AI-assisted workflows.
 
-I work with React, Next.js, TypeScript, Java, Node.js, PostgreSQL, Supabase and SQL-based systems. My main interest is turning real business processes into usable software with clean interfaces, solid data models and maintainable backend logic.
+I work with React, Next.js, TypeScript, Java, Node.js, PostgreSQL, Supabase and SQL-based systems. I also manage Ubuntu environments, virtual machines, application deployments, CI/CD pipelines with GitHub Actions and GitLab Runners, VPN access, credentials and server configurations.
+
+My main interest is turning real business processes into usable software with clean interfaces, solid data models, reliable deployments and maintainable backend logic.
 
 ---
 

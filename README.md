@@ -13,6 +13,12 @@
   <a href="https://mathiasmora2232.github.io">Portafolio</a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mathiasmora2232&label=Visitas%20al%20perfil&color=0e75b6&style=for-the-badge" alt="Visitas al perfil" />
+  <img src="https://img.shields.io/github/followers/mathiasmora2232?label=Seguidores&style=for-the-badge&color=236ad3" alt="Seguidores" />
+  <img src="https://img.shields.io/github/repos/mathiasmora2232?label=Repositorios%20p%C3%BAblicos&style=for-the-badge&color=2ea44f" alt="Repositorios públicos" />
+</p>
+
 ---
 
 ## Sobre mí
@@ -21,7 +27,7 @@ Soy estudiante de desarrollo de software y desarrollador web enfocado en crear a
 
 Me interesa convertir procesos desordenados del mundo real en software usable: autenticación, paneles administrativos, reservas, clientes, reportes, correos, inventario, eventos y automatización.
 
-> Menos "funciona local", más "aguanta producción real".
+> Menos “funciona local”, más “aguanta producción real”.
 
 ---
 
@@ -32,6 +38,19 @@ Me interesa convertir procesos desordenados del mundo real en software usable: a
 - Trabajo con dashboards, reportes, flujos administrativos y experiencia de usuario.
 - Exploro automatización y desarrollo asistido con IA para mejorar productividad.
 - Estoy fortaleciendo arquitectura, datos, APIs, despliegue y mantenimiento.
+
+---
+
+## Estadísticas de GitHub
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mathiasmora2232&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathiasmora2232&layout=compact&langs_count=8&theme=transparent&hide_border=true&locale=es" alt="Lenguajes más utilizados" />
+</p>
+
+<p align="center">
+  <em>La tarjeta de estadísticas se actualiza automáticamente e incluye mi contador de commits.</em>
+</p>
 
 ---
 
@@ -83,12 +102,21 @@ Me interesa convertir procesos desordenados del mundo real en software usable: a
 
 ## Proyectos destacados
 
+Estos son algunos de los proyectos públicos en los que he trabajado o que representan mejor mis intereses técnicos:
+
 | Proyecto | Qué resuelve | Stack |
 | --- | --- | --- |
-| [salon-belleza-next](https://github.com/mathiasmora2232/salon-belleza-next) | Plataforma moderna para gestión de salón: clientes, reservas, servicios, landing, correos y panel administrativo. | TypeScript · Next.js |
-| [salon_belleza_web](https://github.com/mathiasmora2232/salon_belleza_web) | Sistema de salón en Java/Spring con autenticación, reportes, campañas y flujos administrativos. | Java · JavaScript |
-| [sticker-exchange](https://github.com/mathiasmora2232/sticker-exchange) | App social/geolocalizada para intercambio de cromos y coleccionables físicos. | TypeScript · Supabase · PostGIS |
+| [salon-belleza-next](https://github.com/mathiasmora2232/salon-belleza-next) | Plataforma para gestión de salón: clientes, reservas, servicios, landing, correos y panel administrativo. | Next.js · React · TypeScript · SQL |
+| [salon_belleza_web](https://github.com/mathiasmora2232/salon_belleza_web) | Sistema de salón con autenticación, reportes, campañas y flujos administrativos. | Java · Spring · JavaScript |
+| [sticker-exchange](https://github.com/mathiasmora2232/sticker-exchange) | Aplicación social y geolocalizada para intercambio de cromos y coleccionables físicos. | TypeScript · Supabase · PostGIS |
 | [project-main](https://github.com/mathiasmora2232/project-main) | Sistema web educativo con login, cursos, calendario y administración. | HTML · CSS · JavaScript |
+| [PeluqeueriaTes](https://github.com/mathiasmora2232/PeluqeueriaTes) | Proyecto de gestión para una peluquería, enfocado en la práctica de aplicaciones empresariales. | Java |
+| [OpenMontage](https://github.com/mathiasmora2232/OpenMontage) | Sistema open source de producción de video asistida por agentes de IA y múltiples herramientas. | IA · Automatización |
+| [EraLife](https://github.com/mathiasmora2232/EraLife) | Simulación de vida construida alrededor de un mundo persistente más allá de un solo jugador. | Proyecto experimental |
+| [SpotiFLAC](https://github.com/mathiasmora2232/SpotiFLAC) | Herramienta para obtener pistas en formato FLAC desde distintos servicios de música. | Automatización · Audio |
+| [mathiasmora2232.github.io](https://github.com/mathiasmora2232/mathiasmora2232.github.io) | Mi portafolio personal y espacio para mostrar mis proyectos y experiencia. | HTML · CSS · JavaScript |
+
+> También puedes explorar todos mis [repositorios públicos](https://github.com/mathiasmora2232?tab=repositories).
 
 ---
 
@@ -107,7 +135,7 @@ Me interesa convertir procesos desordenados del mundo real en software usable: a
 
 I'm a full-stack developer from Ecuador focused on building complete web products, internal systems, SaaS dashboards and practical AI-assisted workflows.
 
-I work with React, Next.js, TypeScript, Java, Node.js, PostgreSQL, Supabase and SQL-based systems. My main interest is turning real business processes into usable software with clean interfaces, solid data structures and maintainable workflows.
+I work with React, Next.js, TypeScript, Java, Node.js, PostgreSQL, Supabase and SQL-based systems. My main interest is turning real business processes into usable software with clean interfaces, solid data models and maintainable backend logic.
 
 ---
 

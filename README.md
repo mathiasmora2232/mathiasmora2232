@@ -48,13 +48,14 @@ Mi enfoque no es solo hacer que funcione, sino diseñarlo pensando en usuarios, 
 
 ## Actualmente
 
-- Desarrollo aplicaciones full-stack con **Next.js, React, TypeScript y SQL**.
+- Desarrollo aplicaciones full-stack con **React, Next.js, Angular, TypeScript, Node.js, Python, FastAPI y Java/Spring Boot**.
 - Construyo sistemas tipo SaaS para negocios reales.
+- Trabajo principalmente con **PostgreSQL**, modelado relacional, relaciones, constraints, índices, consultas y migraciones.
 - Trabajo con dashboards, reportes, flujos administrativos y experiencia de usuario.
-- Administro entornos **Ubuntu**, máquinas virtuales y servidores para desplegar aplicaciones.
-- Implemento despliegues automatizados con **CI/CD, GitHub Actions y GitLab Runners**.
-- Trabajo con configuración de servidores, variables de entorno, credenciales, VPNs y mantenimiento de infraestructura.
-- Exploro automatización y desarrollo asistido con IA para mejorar productividad.
+- Administro entornos **Linux/Ubuntu**, máquinas virtuales, VPS y servidores para desplegar aplicaciones.
+- Implemento despliegues automatizados con **Docker, GitHub Actions, GitLab CI/CD y GitLab Runners**.
+- Trabajo con dominios, Cloudflare, variables de entorno, secretos, VPNs y mantenimiento de aplicaciones en producción.
+- Exploro automatización de procesos, integración de APIs, agentes y desarrollo asistido con IA.
 - Estoy fortaleciendo arquitectura, datos, APIs, despliegue y mantenimiento.
 
 ---
@@ -63,7 +64,7 @@ Mi enfoque no es solo hacer que funcione, sino diseñarlo pensando en usuarios, 
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=mathiasmora2232&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathiasmora2232&layout=compact&langs_count=8&theme=transparent&hide_border=true&locale=es" alt="Lenguajes más utilizados" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathiasmora2232&layout=compact&langs_count=8&theme=transparent&hide_border=true&locale=es" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
@@ -72,73 +73,84 @@ Mi enfoque no es solo hacer que funcione, sino diseñarlo pensando en usuarios, 
 
 ---
 
-## Tech Stack
+## Stack técnico real
 
-### Frontend
+Puedo construir una aplicación moderna con **React, Next.js o Angular**, desarrollar el backend con **Node.js, FastAPI o Java/Spring Boot**, modelar sus datos principalmente en **PostgreSQL** y desplegarla y mantenerla sobre infraestructura **Linux con Docker y CI/CD**.
+
+### Stack principal
+
+#### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Backend
+#### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### Bases de datos
+> También desarrollo **REST APIs** y trabajo con PHP como tecnología backend adicional.
+
+#### Bases de datos y datos
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### DevOps, servidores y despliegue
+Trabajo principalmente con bases de datos relacionales: **diseño de esquemas, relaciones, constraints, índices, consultas, migraciones y modelado de datos**. También tengo experiencia adicional con **SQL Server**.
 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+#### Infraestructura y despliegue
+
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![VPN](https://img.shields.io/badge/VPN-1F6FEB?style=for-the-badge&logo=wireguard&logoColor=white)
 
-### Herramientas
+Experiencia práctica con **VPS, máquinas virtuales, dominios, variables de entorno, secretos, VPNs, despliegues y mantenimiento de aplicaciones**.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+### Experiencia adicional
 
-### IA y automatización
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-1F6FEB?style=for-the-badge&logo=githubactions&logoColor=white)
+**JavaScript · HTML · CSS · PHP · SQL Server · Git · GitHub · Vercel · VPN · herramientas de IA**
 
 ---
 
-## Infraestructura y experiencia DevOps
+## Infraestructura y experiencia operativa
 
-- Administración y gestión de servidores **Ubuntu**.
-- Uso de máquinas virtuales y entornos de alojamiento en **Spaceship** para el despliegue de aplicaciones.
-- Configuración de aplicaciones, servicios, variables de entorno y credenciales de acceso.
+No me presento como DevOps Engineer: soy un **full-stack developer con experiencia práctica en infraestructura, despliegue y operación de aplicaciones**.
+
+- Administración y gestión de servidores **Linux/Ubuntu**.
+- Uso de máquinas virtuales, VPS y entornos de alojamiento en **Spaceship** para el despliegue de aplicaciones.
+- Configuración de aplicaciones, servicios, dominios, Cloudflare, variables de entorno y credenciales de acceso.
 - Automatización de despliegues mediante pipelines **CI/CD**.
 - Creación y mantenimiento de workflows con **GitHub Actions**.
 - Configuración y uso de **GitLab Runners** para procesos de integración y despliegue continuo.
-- Gestión de dominios, servicios, permisos y configuraciones de producción.
+- Gestión de servicios, permisos y configuraciones de producción.
 - Experiencia trabajando con **VPNs**, accesos remotos y protección de credenciales sensibles.
 - Diagnóstico de errores de despliegue, mantenimiento de entornos y administración básica de servidores.
 
 > Las credenciales y secretos deben gestionarse mediante variables de entorno y secretos protegidos, nunca directamente en el código fuente.
+
+---
+
+## Automatización e IA
+
+Utilizo la automatización y la IA como capacidades aplicadas al desarrollo, no como una colección de herramientas:
+
+- Automatización de procesos y flujos de trabajo.
+- Integración de APIs y servicios externos.
+- Desarrollo asistido por IA.
+- Diseño de agentes y flujos automatizados.
+- Generación, transformación y procesamiento de información mediante modelos.
 
 ---
 
@@ -148,7 +160,7 @@ Estos son algunos de los proyectos públicos en los que he trabajado o que repre
 
 | Proyecto | Qué resuelve | Stack |
 | --- | --- | --- |
-| [salon-belleza-next](https://github.com/mathiasmora2232/salon-belleza-next) | Plataforma para gestión de salón: clientes, reservas, servicios, landing, correos y panel administrativo. | Next.js · React · TypeScript · SQL |
+| [salon-belleza-next](https://github.com/mathiasmora2232/salon-belleza-next) | Plataforma para gestión de salón: clientes, reservas, servicios, landing, correos y panel administrativo. | Next.js · TypeScript · Supabase |
 | [salon_belleza_web](https://github.com/mathiasmora2232/salon_belleza_web) | Sistema de salón con autenticación, reportes, campañas y flujos administrativos. | Java · Spring · JavaScript |
 | [sticker-exchange](https://github.com/mathiasmora2232/sticker-exchange) | Aplicación social y geolocalizada para intercambio de cromos y coleccionables físicos. | TypeScript · Supabase · PostGIS |
 | [project-main](https://github.com/mathiasmora2232/project-main) | Sistema web educativo con login, cursos, calendario y administración. | HTML · CSS · JavaScript |
@@ -193,7 +205,7 @@ I enjoy turning real-world, messy processes into maintainable software: administ
 
 My focus is not only on making things work, but on designing software with users, errors, data, security, maintainability and real production environments in mind.
 
-I also work with Ubuntu servers, virtual machines, application deployments, CI/CD pipelines using GitHub Actions and GitLab Runners, VPN access, credentials and server configuration.
+My core stack includes **React, Next.js, Angular, TypeScript, Node.js, Python, FastAPI, Java, Spring Boot and PostgreSQL**. I also work with Linux infrastructure, Docker, CI/CD pipelines, domains, VPN access, credentials and application maintenance.
 
 **Less “it works locally”. More “it can handle production”.**
 

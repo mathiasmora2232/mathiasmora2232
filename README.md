@@ -1,62 +1,64 @@
 <p align="center">
-  <a href="#espanol">🇪🇸 Español</a> ·
-  <a href="#english">🇬🇧 English</a>
+  <a href="#espanol">Espanol</a> ·
+  <a href="#english">English</a>
 </p>
 
 <a id="espanol"></a>
 
-<h1 align="center">Hola, soy Mathias Mora 👋</h1>
+<h1 align="center">Mathias Mora</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer · Backend & Infrastructure · Software Development Student</strong>
+  <strong>Full-Stack Developer · Backend · Datos · Infraestructura</strong>
 </p>
 
 <p align="center">
-  Construyo aplicaciones completas, sistemas internos y productos digitales con lógica real de negocio.
+  Construyo productos web, APIs, sistemas internos y automatizaciones pensando en negocio, datos y operacion real.
 </p>
 
 <p align="center">
-  <a href="https://github.com/mathiasmora2232">GitHub</a> ·
-  <a href="https://mathiasmora2232.github.io">Portafolio</a>
+  <a href="https://mathiasmora2232.github.io">Portafolio</a> ·
+  <a href="https://github.com/mathiasmora2232?tab=repositories">Repositorios</a>
 </p>
 
 ---
 
-## Sobre mí
+## Sobre mi
 
-Soy desarrollador **full-stack** y estudiante de **Desarrollo de Software**. Construyo sistemas completos desde la interfaz y la lógica de negocio hasta las APIs, los datos, la infraestructura y el despliegue.
+Soy desarrollador full-stack y estudiante de Desarrollo de Software en Guayaquil, Ecuador. Me gusta construir sistemas completos: interfaz, backend, base de datos, autenticacion, despliegue, documentacion y mantenimiento.
 
-Me interesa convertir procesos reales, manuales o difíciles de mantener en software usable y sostenible: sistemas administrativos, dashboards, reservas, clientes, reportes, automatizaciones e integraciones.
+Trabajo mejor cuando el problema tiene contexto real: procesos manuales, paneles administrativos, dashboards, reservas, reportes, integraciones, permisos, validaciones, automatizacion y datos que deben cuadrar.
 
-Pienso más allá de la funcionalidad aislada: usuarios, errores, datos inconsistentes, seguridad, permisos, mantenimiento y operación forman parte del producto.
+Mi enfoque es simple: software usable, mantenible y proporcional al problema. Primero resolver bien, luego escalar con criterio.
 
-**Menos “funciona local”. Más “aguanta producción real”.**
+**Menos "funciona local". Mas "aguanta produccion real".**
+
+---
+
+## En que estoy trabajando
+
+- **SmartAhorra / Price Tracker**: producto SaaS para comparar precios, analizar comercios y apoyar decisiones de compra con datos.
+- **Firmador Web**: base para un firmador de documentos por lote, multi-firmante y orientado a flujos empresariales.
+- **Go Bites**: aplicacion tipo delivery con roles, pedidos, direcciones, locales, productos y backend escalable.
+- **StellarCode Labs**: plataforma propia para experimentar con APIs, automatizaciones, IA, dominios y servicios conectados.
+- **Sistemas internos**: modulos administrativos, reportes, flujos de negocio, documentacion y pruebas funcionales.
 
 ---
 
 ## Proyectos destacados
 
-Estos proyectos representan mejor el tipo de software que me interesa construir:
-
-| Proyecto | Problema y tipo de sistema | Stack principal |
+| Proyecto | Que resuelve | Stack / enfoque |
 | --- | --- | --- |
-| [salon-belleza-next](https://github.com/mathiasmora2232/salon-belleza-next) | Sistema de gestión para negocios de servicios que centraliza clientes, reservas, servicios, comunicaciones y administración. | Next.js · TypeScript · Supabase |
-| [salon_belleza_web](https://github.com/mathiasmora2232/salon_belleza_web) | Aplicación empresarial para administrar operaciones, campañas, reportes y flujos internos de un salón. | Java · Spring · JavaScript |
-| [sticker-exchange](https://github.com/mathiasmora2232/sticker-exchange) | Plataforma social y geolocalizada para conectar personas que intercambian cromos y coleccionables físicos. | TypeScript · Supabase · PostGIS |
-| [OpenMontage](https://github.com/mathiasmora2232/OpenMontage) | Sistema open source orientado a producción de video mediante agentes y flujos automatizados. | IA · Automatización |
-| [mathiasmora2232.github.io](https://github.com/mathiasmora2232/mathiasmora2232.github.io) | Portafolio personal para presentar proyectos, experiencia y evolución técnica. | HTML · CSS · JavaScript |
-
-> También puedes explorar todos mis [repositorios públicos](https://github.com/mathiasmora2232?tab=repositories).
+| [salon-belleza-next](https://github.com/mathiasmora2232/salon-belleza-next) | Gestion de clientes, reservas, servicios y administracion para negocios de servicios. | Next.js · TypeScript · Supabase |
+| [salon_belleza_web](https://github.com/mathiasmora2232/salon_belleza_web) | Sistema empresarial para operaciones, campanas, reportes y flujos internos. | Java · Spring · JavaScript |
+| [sticker-exchange](https://github.com/mathiasmora2232/sticker-exchange) | Plataforma social/geolocalizada para intercambio de cromos y coleccionables. | TypeScript · Supabase · PostGIS |
+| [OpenMontage](https://github.com/mathiasmora2232/OpenMontage) | Automatizacion para produccion de video y flujos asistidos por agentes. | IA · Automatizacion |
+| [mathiasmora2232.github.io](https://github.com/mathiasmora2232/mathiasmora2232.github.io) | Portafolio personal y espacio para presentar proyectos. | HTML · CSS · JavaScript |
 
 ---
 
-## Stack técnico
+## Stack tecnico
 
-Puedo construir una aplicación moderna con **React, Next.js o Angular**, desarrollar el backend con **Node.js, FastAPI o Java/Spring Boot**, modelar sus datos principalmente en **PostgreSQL** y desplegarla sobre infraestructura Linux con Docker y CI/CD.
-
-### Stack principal
-
-#### Frontend
+### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -64,7 +66,9 @@ Puedo construir una aplicación moderna con **React, Next.js o Angular**, desarr
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-#### Backend
+Interfaces web, paneles administrativos, dashboards, formularios, componentes reutilizables y flujos orientados a usuarios reales.
+
+### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -72,9 +76,9 @@ Puedo construir una aplicación moderna con **React, Next.js o Angular**, desarr
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-Desarrollo **REST APIs**, lógica de negocio y servicios integrados. PHP forma parte de mi experiencia backend adicional.
+APIs REST, servicios, logica de negocio, autenticacion, autorizacion, roles, validaciones, integraciones y procesamiento de informacion.
 
-#### Datos
+### Datos
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -82,9 +86,9 @@ Desarrollo **REST APIs**, lógica de negocio y servicios integrados. PHP forma p
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-Trabajo principalmente con bases de datos relacionales: **esquemas, relaciones, constraints, índices, consultas, migraciones y modelado de datos**. También tengo experiencia con SQL Server.
+Modelado relacional, consultas SQL, constraints, indices, migraciones, reportes, auditoria y diseno de datos para sistemas que necesitan consistencia.
 
-#### Infraestructura y despliegue
+### Infraestructura
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -93,64 +97,32 @@ Trabajo principalmente con bases de datos relacionales: **esquemas, relaciones, 
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-Experiencia práctica con **servidores Linux, VPS, máquinas virtuales, dominios, variables de entorno, secretos, VPNs, despliegues y mantenimiento de aplicaciones**.
-
-<details>
-<summary>Experiencia adicional</summary>
-
-**JavaScript · HTML · CSS · PHP · SQL Server · Git · GitHub · Vercel · VPN · herramientas de IA**
-
-</details>
+VPS, Linux, Docker, variables de entorno, secretos, dominios, Cloudflare, CI/CD, despliegues y mantenimiento basico de servicios.
 
 ---
 
-## Qué hago actualmente
+## Como pienso el software
 
-- Desarrollo aplicaciones full-stack orientadas a procesos de negocio y necesidades reales.
-- Diseño interfaces, APIs, modelos de datos y lógica backend para sistemas completos.
-- Construyo dashboards, sistemas administrativos, flujos internos e integraciones.
-- Despliego y mantengo aplicaciones sobre Linux, VPS, máquinas virtuales y entornos Docker.
-- Automatizo builds y despliegues mediante GitHub Actions, GitLab CI/CD y GitLab Runners.
-- Trabajo en autenticación, autorización, roles, permisos, validaciones, documentación y pruebas funcionales.
-
----
-
-## Pensando en producción
-
-Intento diseñar pensando en qué ocurre cuando la aplicación deja de vivir únicamente en localhost.
-
-Eso implica considerar errores, datos inconsistentes, permisos, configuración de entornos, secretos, integración entre servicios, fallos de infraestructura, mantenibilidad y evolución del sistema.
-
-La documentación técnica y funcional, los flujos, los requisitos, las validaciones y el testing forman parte de construir software que otras personas puedan usar, mantener y extender.
+- Entender primero el proceso y el usuario antes de proponer tecnologia.
+- Preferir soluciones simples que puedan mantenerse y evolucionar.
+- Disenar con datos consistentes, permisos claros y validaciones desde el inicio.
+- Documentar lo suficiente para que otra persona pueda operar o continuar el sistema.
+- Automatizar lo repetitivo cuando ahorra tiempo real, no solo porque se ve bonito.
+- Medir costo, complejidad y escalabilidad antes de meter infraestructura pesada.
 
 ---
 
-## Automatización e IA
+## Tambien he trabajado con
 
-Utilizo la automatización como una capacidad transversal para reducir tareas repetitivas y conectar procesos:
-
-- pipelines de CI/CD y scripts de despliegue;
-- integración de APIs y servicios externos;
-- procesamiento de datos y flujos internos;
-- agentes y automatización asistida por IA;
-- generación y transformación de información mediante modelos.
+`JavaScript` · `HTML` · `CSS` · `PHP` · `SQL Server` · `Quarkus` · `Maven` · `JWT` · `Swagger` · `JasperReports` · `Selenium` · `JUnit` · `Allure` · `Git` · `GitHub` · `GitLab` · `Vercel` · `Cloudflare Tunnel` · `R2` · `Redis` · `IA aplicada`
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mathiasmora2232&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&locale=es" alt="Estadísticas de GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathiasmora2232&layout=compact&langs_count=8&theme=transparent&hide_border=true&locale=es" alt="Lenguajes más usados" />
-</p>
-
-<p align="center">
-  <em>Las estadísticas se actualizan automáticamente.</em>
-</p>
-
-<p align="right">
-  <a href="#espanol">🇪🇸 Volver al español</a> ·
-  <a href="#english">🇬🇧 Go to English</a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mathiasmora2232&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&locale=es" alt="Estadisticas de GitHub" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathiasmora2232&layout=compact&langs_count=8&theme=transparent&hide_border=true&locale=es" alt="Lenguajes mas usados" />
 </p>
 
 ---
@@ -159,22 +131,13 @@ Utilizo la automatización como una capacidad transversal para reducir tareas re
 
 ## English Summary
 
-### Building software for the messy real world.
+I'm a full-stack developer and Software Development student from Guayaquil, Ecuador. I build web products, APIs, internal systems and automations with a practical focus on business logic, data, deployment and maintainability.
 
-I'm a full-stack developer and Software Development student who builds complete applications from user interfaces and business logic to APIs, data, infrastructure and deployment.
+My main stack includes **React, Next.js, Angular, TypeScript, Node.js, Python, FastAPI, Java, Spring Boot and PostgreSQL**, supported by Linux, Docker, Cloudflare and CI/CD workflows.
 
-I enjoy turning real-world, manual or difficult-to-maintain processes into usable software: business systems, dashboards, reservations, customer management, reports, automations and integrations.
+I care about software that works beyond localhost: clear permissions, consistent data, documentation, validation, deployment, monitoring mindset and long-term maintenance.
 
-My core stack includes **React, Next.js, Angular, TypeScript, Node.js, Python, FastAPI, Java, Spring Boot and PostgreSQL**, supported by Linux infrastructure, Docker and CI/CD workflows.
-
-I also work with authentication, authorization, validation, documentation, functional testing, automation and practical application maintenance.
-
-**Less “it works locally”. More “it can handle production”.**
-
-<p align="right">
-  <a href="#espanol">🇪🇸 Go to Spanish</a> ·
-  <a href="#english">🇬🇧 Back to English</a>
-</p>
+**Less "it works locally". More "it can handle production".**
 
 ---
 

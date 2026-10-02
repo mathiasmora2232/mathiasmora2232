@@ -112,18 +112,21 @@ VPS, Linux, Docker, variables de entorno, secretos, dominios, Cloudflare, CI/CD,
 
 ---
 
-## Tambien he trabajado con
+## Perfil rapido
 
-`JavaScript` · `HTML` · `CSS` · `PHP` · `SQL Server` · `Quarkus` · `Maven` · `JWT` · `Swagger` · `JasperReports` · `Selenium` · `JUnit` · `Allure` · `Git` · `GitHub` · `GitLab` · `Vercel` · `Cloudflare Tunnel` · `R2` · `Redis` · `IA aplicada`
+| Area | Fortaleza |
+| --- | --- |
+| Producto | Convertir procesos reales en sistemas usables. |
+| Backend | APIs, autenticacion, roles, validaciones e integraciones. |
+| Datos | PostgreSQL, modelado relacional, consultas, indices y reportes. |
+| Infraestructura | Linux, Docker, Cloudflare, VPS y CI/CD. |
+| Calidad | Documentacion, pruebas funcionales y mantenimiento. |
 
 ---
 
-## GitHub Stats
+## Tambien he trabajado con
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=mathiasmora2232&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true&locale=es" alt="Estadisticas de GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathiasmora2232&layout=compact&langs_count=8&theme=transparent&hide_border=true&locale=es" alt="Lenguajes mas usados" />
-</p>
+`JavaScript` · `HTML` · `CSS` · `PHP` · `SQL Server` · `Quarkus` · `Maven` · `JWT` · `Swagger` · `JasperReports` · `Selenium` · `JUnit` · `Allure` · `Git` · `GitHub` · `GitLab` · `Vercel` · `Cloudflare Tunnel` · `R2` · `Redis` · `IA aplicada`
 
 ---
 

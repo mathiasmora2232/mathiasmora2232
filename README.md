@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://mathiasmora2232.github.io">Portafolio</a> ·
-  <a href="https://github.com/mathiasmora2232?tab=repositories">Repositorios</a>
+  <a href="https://github.com/mathiasmora2232?tab=repositories">Repositorios publicos</a>
 </p>
 
 ---
@@ -37,7 +37,7 @@ Mi enfoque es simple: software usable, mantenible y proporcional al problema. Pr
 ## En que estoy trabajando
 
 - **SmartAhorra / Price Tracker**: producto SaaS para comparar precios, analizar comercios y apoyar decisiones de compra con datos.
-- **Firmador Web**: base para un firmador de documentos por lote, multi-firmante y orientado a flujos empresariales.
+- **Firmador Web**: firmador de documentos por lote, multi-firmante y orientado a flujos empresariales. Repositorio privado, TypeScript.
 - **Go Bites**: aplicacion tipo delivery con roles, pedidos, direcciones, locales, productos y backend escalable.
 - **StellarCode Labs**: plataforma propia para experimentar con APIs, automatizaciones, IA, dominios y servicios conectados.
 - **Sistemas internos**: modulos administrativos, reportes, flujos de negocio, documentacion y pruebas funcionales.
@@ -46,13 +46,30 @@ Mi enfoque es simple: software usable, mantenible y proporcional al problema. Pr
 
 ## Proyectos destacados
 
-| Proyecto | Que resuelve | Stack / enfoque |
-| --- | --- | --- |
-| [salon-belleza-next](https://github.com/mathiasmora2232/salon-belleza-next) | Gestion de clientes, reservas, servicios y administracion para negocios de servicios. | Next.js · TypeScript · Supabase |
-| [salon_belleza_web](https://github.com/mathiasmora2232/salon_belleza_web) | Sistema empresarial para operaciones, campanas, reportes y flujos internos. | Java · Spring · JavaScript |
-| [sticker-exchange](https://github.com/mathiasmora2232/sticker-exchange) | Plataforma social/geolocalizada para intercambio de cromos y coleccionables. | TypeScript · Supabase · PostGIS |
-| [OpenMontage](https://github.com/mathiasmora2232/OpenMontage) | Automatizacion para produccion de video y flujos asistidos por agentes. | IA · Automatizacion |
-| [mathiasmora2232.github.io](https://github.com/mathiasmora2232/mathiasmora2232.github.io) | Portafolio personal y espacio para presentar proyectos. | HTML · CSS · JavaScript |
+| Proyecto | Estado | Que resuelve | Stack / enfoque |
+| --- | --- | --- | --- |
+| salon-belleza-next | Privado | Gestion de clientes, reservas, servicios y administracion para negocios de servicios. | TypeScript · Next.js · Supabase |
+| salon_belleza_web | Privado | Sistema empresarial para operaciones, campanas, reportes y flujos internos. | JavaScript · Vercel |
+| sticker-exchange | Privado | Plataforma social/geolocalizada para intercambio de cromos y coleccionables. | TypeScript · Supabase · PostGIS |
+| Firmador Web | Privado | Base para firma de documentos por lote y flujos multi-firmante. | TypeScript · Web app |
+| [mathiasmora2232.github.io](https://github.com/mathiasmora2232/mathiasmora2232.github.io) | Publico | Portafolio personal y espacio para presentar proyectos. | HTML · CSS · JavaScript |
+
+---
+
+## Stats verificables
+
+Estas estadisticas estan basadas en repos concretos revisados desde GitHub, no en tarjetas externas ni contadores generados por terceros.
+
+| Metrica | Valor real usado en este perfil |
+| --- | --- |
+| Repos de trabajo verificados | 5 repos principales + proyectos activos mencionados |
+| Repos privados destacados | 4: salon-belleza-next, salon_belleza_web, sticker-exchange, firmadorweb |
+| Repos publicos enlazados | 1 principal: mathiasmora2232.github.io |
+| Lenguajes principales detectados | TypeScript y JavaScript |
+| Enfoque dominante | Sistemas web, backend, datos, automatizacion e infraestructura |
+| Ultima actividad verificada en repos de trabajo | Septiembre - octubre 2026 |
+
+> Prefiero mostrar datos verificables antes que imagenes de stats que pueden fallar, inflar o esconder trabajo privado.
 
 ---
 
